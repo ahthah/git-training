@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_FoCR8UGFEeeUssKc3eDx0w" label="labs" description="" language="java" technicalLabel="LABS" creationDate="2017-05-25T12:47:44.000-0700" author="_FoCR8kGFEeeUssKc3eDx0w" productVersion="Talend Data Fabric-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ahthah/git-training&quot;,&quot;login&quot;:&quot;ahthah&quot;,&quot;passwd&quot;:&quot;WceLwKW5hJNZbDhmnDciKg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_FoCR8UGFEeeUssKc3eDx0w" label="labs" description="" language="java" technicalLabel="LABS" creationDate="2017-05-25T12:47:44.000-0700" author="_FoCR8kGFEeeUssKc3eDx0w" productVersion="Talend Data Fabric-7.0.1.20180411_1414" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ahthah/git-training&quot;,&quot;login&quot;:&quot;ahthah&quot;,&quot;passwd&quot;:&quot;nkYCmlmpTWUGLTsWLPx02g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_HObA8EGFEeeUssKc3eDx0w" label="development" code="DEV"/>
     <technicalStatus xmi:id="_HObA8UGFEeeUssKc3eDx0w" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_HObA8kGFEeeUssKc3eDx0w" label="production" code="PROD"/>
@@ -414,6 +414,6 @@
     <migrationTask xmi:id="_HuwHN0GFEeeUssKc3eDx0w" id="org.talend.repository.model.migration.ChangeTypeMappingForRedshift" breaks="6.3.0" version="6.3.1" status="noimpact"/>
     <migrationTask xmi:id="_HuwHOEGFEeeUssKc3eDx0w" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_FoCR8kGFEeeUssKc3eDx0w" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_HOddMEGFEeeUssKc3eDx0w" login="gituser@company.com" firstName="User" lastName="Git" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_FoCR8kGFEeeUssKc3eDx0w" login="admin@company.com" firstName="Istrator" lastName="Admin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_HOddMEGFEeeUssKc3eDx0w" login="gituser@company.com" firstName="User" lastName="GIT" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
