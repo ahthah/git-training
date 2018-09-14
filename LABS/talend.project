@@ -40,6 +40,7 @@
       <relatedItems xmi:id="_FMm2nbhIEeiX0sdVBQaRbw" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_FMm2nrhIEeiX0sdVBQaRbw" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_FMm2n7hIEeiX0sdVBQaRbw" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_TxfcQLhIEeiX0sdVBQaRbw" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_FMm2oLhIEeiX0sdVBQaRbw">
       <baseItem xmi:id="_FMm2obhIEeiX0sdVBQaRbw" id="_9Ilj8EGFEeeUssKc3eDx0w" version="0.1" type="job"/>
