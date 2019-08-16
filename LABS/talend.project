@@ -595,6 +595,6 @@
     <migrationTask xmi:id="_qdaAqre5EeiZG_3zlYySvg" id="org.talend.camel.designer.migration.UpdateBuildTypeForCTalendJobMigrationTask" breaks="5.6.0" version="7.0.1" status="noimpact"/>
     <migrationTask xmi:id="_HuwHOEGFEeeUssKc3eDx0w" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_FoCR8kGFEeeUssKc3eDx0w" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_HOddMEGFEeeUssKc3eDx0w" login="gituser@company.com" firstName="user" lastName="Git" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_FoCR8kGFEeeUssKc3eDx0w" login="admin@company.com" firstName="Min" lastName="Ad" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_HOddMEGFEeeUssKc3eDx0w" login="gituser@company.com" firstName="User" lastName="GIT" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
